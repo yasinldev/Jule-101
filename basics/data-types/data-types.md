@@ -189,7 +189,7 @@ let other_any = (int)(my_any)
 
 any tipi gerektiğinde kendini değişmezlik karşısında korur. Örneğin, any tipinde bir değişkenle tutulan dilim değeri olduğunu varsayalım. Ve değişkeniniz değişmez (immutable) olsun. Bu durumda, değerinizi değişkene atamak için dilime dönüştürürseniz hata alırsınız. Çünkü dilim değiştirilebilir bir tiptir ve bu, değişmezliği bozar.
 
-> **Warning**
+> **Warning** <br>
 > Bu çok güvensiz bir yöntemdir ve türetilmemesine özen gösterilmelidir.
 
 

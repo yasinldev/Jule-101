@@ -1,6 +1,6 @@
-# ``init`` ve ``main`` fonksiyonları
+# Ayrılmış  Fonksiyonlar
 
-``init`` ve ``main`` fonksiyonları, Jule programlama dilinin en önemli fonksiyonlarındandır.
+``init`` ve ``main`` fonksiyonları, Jule programlama dilinin en önemli ve ayrılmış fonksiyonlarındandır.
 
 ## ``init`` Fonksiyonu
 ``init`` fonksiyonu, program başladığında <b>ilk olarak çağırılan fonsiyondur.</b> Eğer ana paketteyse ``main`` fonksiyonundan önce çağırılır.
